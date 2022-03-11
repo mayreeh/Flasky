@@ -7,7 +7,7 @@ Jinja2==2.8
 Mako==1.0.4
 MarkupSafe==0.23
 PAM==0.4.2
-Pillow==2.9.0
+Pillow==9.0.1
 PyJWT==1.0.0
 SQLAlchemy==1.0.13
 Twisted-Core==15.2.1
