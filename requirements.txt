@@ -12,7 +12,7 @@ PyJWT==1.0.0
 SQLAlchemy==1.0.13
 Twisted-Core==15.2.1
 Twisted-Web==15.2.1
-Werkzeug==0.11.9
+Werkzeug==0.15.3
 adium-theme-ubuntu==0.3.4
 alembic==0.8.6
 apt-xapian-index==0.46
